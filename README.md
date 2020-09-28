@@ -6,6 +6,7 @@ Pronunciation
 =============
 
 -   C : like "ch" in english.
+-   a: "f*a*ther"
 -   E: like a in "fake"
 -   I: like e in "sleet"
 -   O: like o in "rope"
@@ -21,19 +22,17 @@ Pronunciation
 -   Aw : like "now"
 -   Uy : ooey --- rare. possibly extinct?
 
-Grammar
+## Grammar
 =======
-
-//-ing -> adi (ade/ada/adu/ado)
 
 //modal verbs should/could/would -> -a (modifier instead of verb.
 
-Articles -
+### Articles -
 ----------
 
-Aspiranto has definite article "la". Use one/that/those/this if necessary.
+Internasia has definite article "la". Use one/that/those/this if necessary.
 
-Pronouns
+### Pronouns
 --------
 
 mo - me or I
@@ -69,19 +68,19 @@ Tuta personoy - all people
 Unoy - some
 Uno - one/a
 
-Common Affixes
+### Common Affixes
 --------------
 
 Fid- 
 
 -ista
 
-Nouns
+### Nouns
 
 Nouns always end in -o or (if plural) -oy
 
--   Nazo : nose
--   Brako: arm
+-   Nazo : (a) nose
+-   Brako: (an) arm
 -   Brakoy: arms
 
 ## Sentence & paragraph construction
@@ -95,18 +94,18 @@ Word order is [SVO]
 Adjectives and adverbs both end in -a. Adjectives come before the noun (save with 'de').
 
 -   A cheerful fire is blazing on the hearth.
--   Gaya fayro forta bruladi en fajreyo
+-   Gaya fayro forta isi bruli en fajreyo
 -   Seven little sisters were walking in a row.
 -   Sep egranda fratinoy marsade en horizontalo
 -   Some beautiful roses are blooming in our garden.
--   Unoy bela rozoy floradi en may jardeno
+-   Unoy bela rozoy isi flori en may jardeno
 -   The little girl was playing with her kitten.
 -   La egranda idino ludade kun lina katido.
 
 ## Numbers
 -------
 
-ze (0), un (1), du (2), tri (3), kwar (4), kwin (5), ses (6), set (7), oko (8), nay (9), unze (10), unzeze or zeze sent(100), un trizeo or trizeo kil(1000), un seszeo (1,000,000), du nayzeo (2,000,000,000), un nayzeo(1,000,000,000), punto ze kwar (.04)
+ze (0), un (1), du (2), tri (3), kwar (4), kwin (5), ses (6), set (7), ok (8), nay (9), unze (10), unzeze or zeze sent(100), un trizeo or trizeo kil(1000), un seszeo (1,000,000), du nayzeo (2,000,000,000), un nayzeo(1,000,000,000), punto ze kwar (.04)
 
 -   First: una
 -   Second: dua
@@ -135,103 +134,84 @@ ze (0), un (1), du (2), tri (3), kwar (4), kwin (5), ses (6), set (7), oko (8), 
 * kure : ran
 * kuru : will run
 * kuro : a run (noun)
-* la kuri : running (noun)
+* kurio : running (noun)
 * isi kuri: is running
 * ise kuri: was running
 * ise kuru: was going to run
+* isi kuru: is going to run
 
-"Pugnu hi!": "Punch him!"
 
-"Savu mi!" : "Save me!"
 
-"Longa vivu la rey." : "Long live the king"
 
-li ise pugne : he was punched
+* "Pugnu hi!": "Punch him!"
+* "Savu mi!" : "Save me!"
+* "Longa vivu la rey." : "Long live the king"
+* lico ise pugne : he was punched
+* lico isu pugne : he will be punched
+* lico ise dolorige de laso : he was hurt by it.
+* lico isi dolorigea : he is hurt (adjective)
+* lino dolorige laso : she hurt it
+* lino isu prea pugne  : she will have punched (she will have (already) punched)
+* lico isi pugne : he is punched
+* mi isi kapte : I am being caught
+* mi igu kapta : I will become caught
 
-li estu pugne : he will be punched
+* fermi : to close
+* fermea : closed
+* fermia: closing
+* dansio: dancing (the activity)
 
-li estu have pugne  : he will have punched
-
-li isi pugne : he is punched
-
-mi isi kapte : I am being caught
-
-mi igu kapta : I will become caught
-
-fermi : to close
-
-fermea : closed
-
-fermia: closing
-
-dansio: dancing (the activity)
-
-Mi ise manje per tio monstro : I was eaten by that monster
-
-Ti estu kaptea : it will be caught
-
-Si vi helpi mi, mi lernu pli rapida : If you help me, I will learn faster.
-
-Mi cupova fari tio : I could do that.
-
-Mi cuebla fari tio : I might do that  //fut. tense?
-
-Mi devega fari tio : I must do that.
-
-Mi deva fari tio : I should do that
+* Mi ise manje per tio monstro : I was eaten by that monster
+* Ti estu kaptea : it will be caught
+* Si vi helpi mi, mi lernu pli rapida : If you help me, I will learn faster.
+* Mi cupova fari tio : I could do that.
+* Mi cuebla fari tio : I might do that  //fut. tense?
+* Mi devega fari tio : I must do that.
+* Mi deva fari tio : I should do that
 
 ### Conditional
 
-Cu vi helpi mi, mi estu lerni pli rapida.
+* Cu vi helpi mi, mi estu lerni pli rapida.
+* If you help me, I would be learning faster.
 
-If you help me, I would be learning faster.
+* Cu vi helpe mi, mi estu lerne pli rapida
+* If you helped me, I would have learned faster.
 
-Cu vi helpe mi, mi estu lerne pli rapida
+* Cu vi estu helpi mi, mi estu isi kontenta
+* If you would help me, I would be happy.
 
-If you helped me, I would have learned faster.
+* Cu vi helpi mi, mi estu kontenta.
+* If you help me, I will be happy.
 
-Cu vi estu helpi mi, mi estu isi kontenta
+* Cu vi instrui mi, mi lernu pli rapida.
+* If you teach me, I will learn faster.
 
-If you would help me, I would be happy.
+* Mi pova fari tio.
+* I can do that.
 
-Cu vi helpi mi, mi estu kontenta.
+* Mi cupova fari tio
+* I could do that.
 
-If you help me, I will be happy.
+* Mi ebla fari tio
+* I might do that.
 
-Cu vi instrui mi, mi lernu pli rapida.
+* Mi devega fari tio.
+* I must do that.
 
-If you teach me, I will learn faster.
+* Mi deva fari tio.
+* I should do that. / I ought to do that.
 
-Mi pova fari tio.
+* Mi cu faru tio, sed
+* I would do that, but
 
-I can do that.
+* Mi cu fare tio
+* I would have done that.
 
-Mi cupova fari tio
+* Mi citempa estu sanigisto sed
+* I would be (now) a healer but
 
-I could do that.
-
-Mi ebla fari tio
-
-I might do that.
-
-Mi devega fari tio.
-
-I must do that.
-Mi deva fari tio.
-
-I should do that. / I ought to do that.
-Mi cu faru tio, sed
-
-I would do that, but
-
-Mi cu fare tio
-I would have done that.
-
-Mi citempa estu sanigisto sed
-I would be (now) a healer but
-
-Mi cupova iri?
-Can I go?
+* Mi cupova iri?
+* Can I go?
 
 Negatives/reversals
 -------------------
@@ -239,7 +219,7 @@ Negatives/reversals
 e-: reverses a word.
 
 -   Yuna = young. eyuna (e'yuna) = old.
--   Ne isi yuna = Isn't young.
+-   eisi yuna = Isn't young.
 
 Sen-: without, or lacking. 
 
@@ -250,47 +230,27 @@ Sen-: without, or lacking. 
 Gender
 ------
 
-Patro = parent
-
-Patroy = parents
-
-Patrego = grandparent
-
-Fempatro = mother (formal)
-
-Maho = mother/mom (informal)
-
-Virpatro = father (formal)
-
-Paho = father/dad (informal)
-
-Homido = child
-
-Fema homido = a girl child.
-
-Femeta = girl
-
-Vireta = boy
-
-Frato = sibling
-
-Virfrato = brother
-
-Mia femido = my daughter.
-
-virido = son
-
-Woman : Femhomo or simply femo.
-
-Man: Virhomo or simply viro.
-
-Feminine: Femeza
-
-Masculine: vireza
-
-Virega : macho.
-
-Femega: (full/overflowing of feminine virtues)
+* Patro = parent
+* Patroy = parents
+* Patrego = grandparent
+* Fempatro = mother (formal)
+* Maho = mother/mom (informal)
+* Virpatro = father (formal)
+* Paho = father/dad (informal)
+* Homido = child
+* Fema homido = a girl child.
+* Femeta = girl
+* Vireta = boy
+* Frato = sibling
+* Virfrato = brother
+* Mia femido = my daughter.
+* virido = son
+* Woman : Femhomo or simply femo.
+* Man: Virhomo or simply viro.
+* Feminine: Femeza
+* Masculine: vireza
+* Virega : macho.
+* Femega: (full/overflowing of feminine virtues)
 
 |\
  |
