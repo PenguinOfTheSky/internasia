@@ -1,6 +1,6 @@
-Version 0.55
+Version 0.56
 
-// symbol indicates the line is under consideration for removal.
+// symbol indicates the line is under consideration.
 
 Pronunciation
 =============
@@ -147,6 +147,7 @@ ze (0), un (1), du (2), tri (3), kwar (4), kwin (5), ses (6), set (7), ok (8), n
 * "Savu mi!" : "Save me!"
 * "Longa vivu la rey." : "Long live the king"
 * lico ise pugne : he was punched
+* lico prea pugne : he has punched
 * lico isu pugne : he will be punched
 * lico ise dolorige de laso : he was hurt by it.
 * lico isi dolorigea : he is hurt (adjective)
