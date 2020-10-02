@@ -1,26 +1,45 @@
-Version 0.56
+Version 0.57
 
 // symbol indicates the line is under consideration.
 
-Pronunciation
-=============
+## Pronunciation
+Listed in form:
+letter: example ; ipa
+5 vowels, 2 intermediates, 16 consonants, 0 diacritics, 23 total letters
+============
+(work in progress)
 
--   C : like "ch" in english.
--   a: "f*a*ther"
--   E: like a in "fake"
--   I: like e in "sleet"
--   O: like o in "rope"
--   U: like u in "flute"
--   G: like g in "garden"
--   J: like J in "John"
+- c : ch in "cheese"; [t͡ʃ]
+- a: short a as in "father"; [a]
+- e: long e in "bell" or "bet". a little longer when stressed (as in e- prefix); [e]; [ei̯]
+- i: e in "sleet"; [i]
+- o: o in "rope"; 	[o]
+- u: u in "flute"; 	[u]
+- g: hard g as in "garden"; [ɡ]
+- j: J in "John"; [d͡ʒ]
+- y: y in "you"; [j] when a consonant
+- r: slightly trilled if possible; [r]
+- k [k] as in in English
+- l [l] as in English
+- m [m] as in English
+- n [n] ...
+- p [p]
+- t [t]
+- v [v]
+- s [s]
+- h [h]
+- b [b]
+- d [d]
+- t [t]
 
   ### Diphthongs
-
--   Note: y is a consonant if preceding a vowel in the word.
--   Ay : like "Sky"
--   Oy : like "Toy"
--   Aw : like "now"
+-   Note: y/w is a consonant if preceding a vowel in the word.
+-   Ay : like y in "Sky";	[ai̯]
+-   Ey: like ay in say ; [ei̯]
+-   Oy : like oy in "Toy"; [oi̯]
+-   Aw : like ow in "now"; au̯
 -   Uy : ooey --- rare. possibly extinct?
+
 
 ## Grammar
 =======
