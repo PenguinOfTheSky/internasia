@@ -1,12 +1,12 @@
-Version 0.57
+Version 0.59
 
 // symbol indicates the line is under consideration.
 
 ## Pronunciation
 Listed in form:
 letter: example ; ipa
-5 vowels, 2 intermediates, 16 consonants, 0 diacritics, 23 total letters
-============
+5 vowels, 2 intermediates, 17 consonants, 0 diacritics, 24 total letters
+----
 (work in progress)
 
 - c : ch in "cheese"; [t͡ʃ]
@@ -19,7 +19,7 @@ letter: example ; ipa
 - j: J in "John"; [d͡ʒ]
 - y: y in "you"; [j] when a consonant
 - r: slightly trilled if possible; [r]
-- k [k] as in in English
+- k: /k/
 - l [l] as in English
 - m [m] as in English
 - n [n] ...
@@ -31,6 +31,7 @@ letter: example ; ipa
 - b [b]
 - d [d]
 - t [t]
+- z [z]
 
   ### Diphthongs
 -   Note: y/w is a consonant if preceding a vowel in the word.
@@ -272,100 +273,42 @@ Gender
 * Virega : macho.
 * Femega: (full/overflowing of feminine virtues)
 
-|\
- |
 
-Interrogative (What)
 
- |
-
-Demonstrative (That)
+Cu tipo de? (what kind of?)
 
  |
 
-Indefinite (Some)
+Tio tipo de (that kind of, such a)
 
  |
 
-Universal (Each, every)
+Unoy tipo de (some kind of)
 
  |
 
-Negative (No)
-
- |
-|
-
-Kind of, sort of
+Tuta tipo de (every kind of)
 
  |
 
-Cu tipo de?
-
-(what kind of?)
-
- |
-
-Tio tipo de
-
-(that kind of, such a)
-
- |
-
-Unoy tipo de
-
-(some kind of)
-
- |
-
-Tuta tipo de
-
-(every kind of)
-
- |
-
-Ne tipo de
-
-(no kind of)
+Ne tipo de (no kind of)
 
  |
 |
 
 Reason
 
- |
+Cu pro? (why?/What for?)
 
-Cu pro?
+Pro tio (therefore/ for that)
 
-(why?/What for?)
+Pro unoy kazo (for some reason)
 
- |
+Pro tuta kazoy (for all reasons)
 
-Pro tio
+Pro ne kazo (for no reason)
 
-(therefore/ for that)
-
- |
-
-Pro unoy kazo
-
-(for some reason)
-
- |
-
-(for all reasons)
-
-Pro tuta kazoy
-
- |
-
-Pro ne kazo
-
-(for no reason)
-
-Sen kazo
-
-(lacking/without cause)
+Sen kazo (lacking/without cause)
 
  |
 |
@@ -374,37 +317,26 @@ Time
 
  |
 
-Cu foyo?
+* Cu foyo? (when)
 
-(when)
+* Tio foyo (then)
 
- |
 
-Tio foyo
-
-(then)
+* Uno foyo
+* (once)
 
  |
 
-Uno foyo
+* Tuta foyo
+* (always)
 
-( once)
-
- |
-
-Tuta foyo
-
-(always)
-
-Por tuta foyo
-
-(forever)
+* Por tuta foyo
+* (forever)
 
  |
 
-Ne foyo
-
-(never)
+* Ne foyo
+* (never)
 
  |
 |
@@ -413,83 +345,64 @@ Place
 
  |
 
-Cu eyo?
-
-(where?)
-
- |
-
-Tio eyo
-
-(there)
+* Cu eyo?
+* (where?)
 
  |
 
-Unoy eyo
-
-(somewhere)
-
- |
-
-Tuta eyo
-
-(everywhere (adj.))
+* Tio eyo
+* (there)
 
  |
 
-Ne eyo
-
-(nowhere)
+* Uneyo
+* (somewhere)
 
  |
+
+* Tuta eyo
+* (everywhere (adj.))
+
+ |
+
+* Ne eyo
+* (nowhere)
+
 |
 
 Motion
 
  |
 
-Al cu eyo?
+* Al cu eyo?
+* ([to] where, whither)
 
-([to] where, whither)
 
- |
+* Al tio eyo
+* ([to] there, thither)
 
-Al tio eyo
 
-([to] there, thither)
+* Al unoy eyo
+* ([to] somewhere)
 
- |
 
-Al unoy eyo
+* Al tuteyo
+* ([to] everywhere)
 
-([to] somewhere)
+* Al tuta eyoy 
+* (to all places)
 
- |
 
-Al tuta eyo
 
-([to] everywhere)
-
-Al tuta eyoy 
-
-(to all places)
-
- |
-
-Al ne eyo
-
-([to] nowhere)
-
- |
-|
+* Al ne eyo
+* ([to] nowhere)
 
 Manner
 
  |
 
-Cu vi faris?
-
-(how did you?)
+* Cu vi faris?
+* (how did you?)
 
  |
 
