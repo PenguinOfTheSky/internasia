@@ -4,8 +4,11 @@ Version 0.59
 
 ## Pronunciation
 Listed in form:
-letter: example ; ipa
+
+letter : example ; ipa
+
 5 vowels, 2 intermediates, 17 consonants, 0 diacritics, 24 total letters
+
 ----
 (work in progress)
 
