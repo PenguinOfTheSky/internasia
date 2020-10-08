@@ -1,4 +1,4 @@
-Version 0.59
+Version 0.60
 
 // symbol indicates the line is under consideration.
 
@@ -7,7 +7,7 @@ Listed in form:
 
 letter : example ; ipa
 
-5 vowels, 2 intermediates, 17 consonants, 0 diacritics, 24 total letters
+5 vowels, 2 intermediates, 16 consonants, 0 diacritics, 23 total letters
 
 ----
 (work in progress)
@@ -34,7 +34,7 @@ letter : example ; ipa
 - b [b]
 - d [d]
 - t [t]
-- z [z]
+- z [z] //in process of removal, nearly complete.
 
   ### Diphthongs
 -   Note: y/w is a consonant if preceding a vowel in the word.
@@ -128,14 +128,15 @@ Adjectives and adverbs both end in -a. Adjectives come before the noun (save wit
 ## Numbers
 -------
 
-ze (0), un (1), du (2), tri (3), kwar (4), kwin (5), ses (6), set (7), ok (8), nay (9), unze (10), unzeze or zeze sent(100), un trizeo or trizeo kil(1000), un seszeo (1,000,000), du nayzeo (2,000,000,000), un nayzeo(1,000,000,000), punto ze kwar (.04)
+ze (0), un (1), du (2), tri (3), kwar (4), kwin (5), ses (6), set (7), ok (8), nay (9), unze (10), trizeze or tri de duzeo (300), kwin de trizeo(5000), kwar de sesze (4,000,000), du de nayzeo (2,000,000,000), un de nayzeo(1,000,000,000), punto ze kwar (.04)
 
 -   First: una
 -   Second: dua
 -   23: dutri
 -   343: trikwartri
--   2001: duzezeun || du trizeo kay un
+-   2001: duzezeun || du de trizeo i un
 -   5500.4: kwinkwinzeze punto kwar.
+// add fractions
 
 ## Time
   Monday: unatago
@@ -581,3 +582,10 @@ Plural -oy (only. no adj/noun agreement)
 antaux -> pre  
 kontraw -> anti  
 mal -> e  
+
+Changelog:
+version .60
+* north (nordo) is now esudo (not-south). chosen for being one letter shorter than nordo.
+* z - more or less removed. a few tricky words left to alter/remove
+* dictionary: fixed a source of lag, and added a related words & similar words section. Should aid in learning the language, as well as discovering obsolete words that should be removed from the dictionary.
+* some changes to introduction page. Youtube page started.
